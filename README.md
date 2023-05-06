@@ -4,7 +4,7 @@
 ## Author: Zekra Quraan
 ## Links and Resources
 # back-end server url (when applicable)
-# front-end application (when applicable)
+[math_series](./series/series.py)
 
 ## Setup
 # .env requirements (where applicable)
